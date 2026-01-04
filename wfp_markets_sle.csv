@@ -1,0 +1,92 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+#loc+market+code,#loc+market+name,#country+code,#adm1+name,#adm2+name,#geo+lat,#geo+lon
+341,Bo,SLE,Southern,Bonthe,7.54,-12.26
+342,Kenema,SLE,Eastern,Kenema,7.88,-11.19
+343,Makeni,SLE,Northern,Bombali,8.88,-12.05
+344,Kailahun,SLE,Eastern,Kailahun,8.28,-10.57
+345,Port Loko,SLE,North Western,Port Loko,8.77,-12.78
+346,Barmoi,SLE,North Western,Port Loko,8.98,-12.63
+347,Lumley,SLE,Western Area,Western Urban,8.46,-13.27
+348,Dove Court,SLE,Western Area,Western Urban,8.49,-13.23
+349,Wellington,SLE,Western Area,Western Urban,8.45,-13.17
+350,Pujehun,SLE,Southern,Pujehun,7.36,-11.72
+351,Koidu,SLE,Eastern,Kono,8.42,-10.83
+352,Krootown,SLE,Western Area,Western Urban,8.49,-13.23
+353,Kabala,SLE,Northern,Koinadugu,9.58,-11.55
+1772,Freetown,SLE,Western Area,Western Urban,8.47,-13.23
+1773,Koinadugu,SLE,Northern,Koinadugu,9.52,-11.36
+1774,Bonthe,SLE,Southern,Bonthe,7.53,-12.5
+1775,Moyamba,SLE,Southern,Moyamba,8.16,-12.44
+1776,Bombali,SLE,Northern,Bombali,9.25,-12.16
+1777,Tonkolili,SLE,Northern,Tonkolili,8.98,-11.79
+1788,Kono,SLE,Eastern,Kono,8.65,-10.98
+1789,Kambia,SLE,North Western,Kambia,9.12,-12.92
+6456,Shenge Kakua,SLE,Southern,Bo,7.97,-11.74
+6457,Monbongo,SLE,Southern,Bo,7.96,-11.73
+6458,Sumbuya,SLE,Southern,Bo,7.65,-11.96
+6459,Jimmi,SLE,Southern,Bo,7.6,-11.82
+6460,Koribondo,SLE,Southern,Bo,7.71,-11.69
+6461,Mattru Center,SLE,Southern,Bonthe,7.61,-12.18
+6462,Moriba Town,SLE,Southern,Moyamba,7.79,-12.3
+6463,Moyamba Junction,SLE,Southern,Moyamba,8.33,-12.22
+6464,Arfordu,SLE,Southern,Moyamba,7.8,-12.38
+6465,Zimmi,SLE,Southern,Pujehun,7.32,-11.31
+6466,Sahn Malen,SLE,Southern,Pujehun,7.43,-11.84
+6467,Mile 91,SLE,Northern,Tonkolili,8.47,-12.21
+6468,Bumbuna,SLE,Northern,Tonkolili,9.04,-11.75
+6469,Central Market,SLE,Northern,Bombali,8.89,-12.04
+6470,Mayoloh,SLE,Northern,Tonkolili,8.72,-11.94
+6471,Kamabai,SLE,Northern,Bombali,9.15,-11.96
+6472,Makoth,SLE,Northern,Bombali,8.82,-12.23
+6473,Yogomaia,SLE,Northern,Koinadugu,9.59,-11.55
+6474,Fadugu,SLE,Northern,Koinadugu,9.39,-11.77
+6475,Badala,SLE,Northern,Koinadugu,9.32,-11.54
+6477,Lunsar,SLE,North Western,Port Loko,8.68,-12.53
+6478,Masaika,SLE,North Western,Port Loko,8.49,-12.76
+6479,Rotifunk Mahara Lungi,SLE,North Western,Port Loko,8.6,-13.18
+6480,Gberray Junction,SLE,North Western,Port Loko,8.71,-12.68
+6481,Makiteh Luma,SLE,North Western,Port Loko,8.45,-12.67
+6482,Kambia 2,SLE,North Western,Kambia,9.11,-12.93
+6483,Bamoi Luma,SLE,North Western,Kambia,9.04,-12.91
+6484,Kukuna,SLE,North Western,Kambia,9.4,-12.66
+6485,Madina ,SLE,North Western,Kambia,9.29,-12.67
+6486,Pendembu,SLE,Eastern,Kailahun,8.28,-10.57
+6487,Mobai,SLE,Eastern,Kailahun,7.99,-10.75
+6488,Daru,SLE,Eastern,Kailahun,7.99,-10.84
+6489,Segbwena,SLE,Eastern,Kailahun,8,-10.95
+6490,Blama Town,SLE,Eastern,Kenema,7.87,-11.35
+6491,Tongo Town,SLE,Eastern,Kenema,8.22,-11.06
+6492,Baama Konta,SLE,Eastern,Kenema,8.35,-11.33
+6502,Panguma,SLE,Eastern,Kenema,8.18,-11.13
+6503,Afordu And Gbongbontor ,SLE,Eastern,Kenema,7.88,-11.19
+6504,Gaiama,SLE,Eastern,Kono,8.55,-11.09
+6505,Tombodo,SLE,Eastern,Kono,8.7,-11.01
+6506,Sewafeh,SLE,Eastern,Kono,8.54,-11.25
+6507,Koakuyima,SLE,Eastern,Kono,8.62,-10.99
+6508,Kamakwie,SLE,North Western,Karene,9.5,-12.24
+6509,Kamalo ,SLE,North Western,Karene,9.4,-12.24
+6510,Thambi,SLE,North Western,Kambia,9.48,-12.42
+6511,Foredugu,SLE,North Western,Karene,8.75,-12.5
+6512,Dogolia,SLE,Northern,Falaba,9.71,-11.55
+6513,Musaia,SLE,Northern,Falaba,9.76,-11.57
+6514,Manah,SLE,Northern,Falaba,9.76,-11.49
+6515,Karfaia,SLE,Northern,Falaba,9.63,-11
+6516,Seria,SLE,Northern,Falaba,9.46,-10.92
+6517,Gbindi,SLE,Northern,Falaba,9.91,-11.45
+6518,Funkia,SLE,Western Area,Western Rural,8.44,-13.28
+6519,Congo,SLE,Western Area,Western Urban,8.48,-13.24
+6539,Waterloo,SLE,Western Area,Western Rural,8.33,-13.07
+6540,Tombo,SLE,Western Area,Western Rural,8.21,-13.1
+6541,Jui,SLE,Western Area,Western Rural,8.39,-13.14
+6542,Calaba Town,SLE,Western Area,Western Urban,8.47,-13.27
+6543,Portee,SLE,Western Area,Western Urban,8.46,-13.18
+6544,Shenge Kagboro,SLE,Southern,Moyamba,7.91,-12.95
+6545,Yoni,SLE,Southern,Bonthe,7.46,-12.53
+6546,Yagoi,SLE,Southern,Bonthe,7.57,-12.34
+6550,Munku market,SLE,Southern,Moyamba,8.16,-12.44
+6551,Masingbi,SLE,Northern,Tonkolili,8.64,-11.48
+6552,Borup,SLE,North Western,Port Loko,8.7,-12.97
+6553,Magburaka,SLE,Northern,Tonkolili,8.72,-11.95
+6554,Potoru,SLE,Southern,Pujehun,7.51,-11.48
+6555,Rokupr,SLE,North Western,Kambia,9.01,-12.95
+6556,WHARF ROAD MARKET,SLE,North Western,Port Loko,8.75,-13.23
