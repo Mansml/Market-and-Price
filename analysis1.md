@@ -1,7 +1,7 @@
 # Simple Guide: Analyzing Food Prices in Ghana
 
 ## What You'll Discover
-You'll explore how Ghana's economy affects food prices from 2015-2024. Think of it like detective work—finding clues in the data about what makes food more expensive.
+You'll explore how Ghana's economy affects food prices from 2015-2024. Think of it like detective work, finding clues in the data about what makes food more expensive.
 
 ## Your Data Files
 1. **Food prices** - Prices of rice, maize, yam, tomatoes, etc. across Ghana
@@ -137,6 +137,6 @@ You'll discover things like:
 4. Save your best graphs: right-click → Save image
 
 ## Expected Results
-The **exchange rate** (USD/GHS) typically predicts food prices best because Ghana imports a lot, and a weaker Cedi makes everything more expensive. But you might find surprises—some local foods like yam might not follow the same pattern!
+The **exchange rate** (USD/GHS) typically predicts food prices best because Ghana imports a lot, and a weaker Cedi makes everything more expensive. But you might find surprises, some local foods like yam might not follow the same pattern!
 
 Good luck! Remember: you're learning to tell a data story about how Ghana's economy affects what people pay for food.
